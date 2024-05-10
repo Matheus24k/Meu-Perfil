@@ -33,7 +33,7 @@ width=150px height=150px aling/>
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-##### 
+##### Softwares e sistemas operacionais
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheus24k)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-333333?style=for-the-badge&logo=google-colab&logoColor=yellow)](https://colab.research.google.com/drive/1cmouBEFvraePcvNp6-VpCZdyCHoJ6arp)
 [![cmd](https://img.shields.io/badge/cmd-333333?style=for-the-badge&logo=windows&logoColor=white)](https://colab.research.google.com/drive/1cmouBEFvraePcvNp6-VpCZdyCHoJ6arp)

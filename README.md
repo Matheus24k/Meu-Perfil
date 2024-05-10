@@ -36,7 +36,7 @@ width=150px height=150px aling/>
 ##### Softwares e sistemas operacionais
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheus24k)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-333333?style=for-the-badge&logo=google-colab&logoColor=yellow)](https://colab.research.google.com/drive/1cmouBEFvraePcvNp6-VpCZdyCHoJ6arp)
-[![Windows](https://img.shields.io/badge/cmd-333333?style=for-the-badge&logo=windows&logoColor=white)](https://colab.research.google.com/drive/1cmouBEFvraePcvNp6-VpCZdyCHoJ6arp)
+[![Windows](https://img.shields.io/badge/Windows-333333?style=for-the-badge&logo=windows&logoColor=white)](https://colab.research.google.com/drive/1cmouBEFvraePcvNp6-VpCZdyCHoJ6arp)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-333333?style=for-the-badge&logo=kali-linux&logoColor=white)](https://colab.research.google.com/drive/1cmouBEFvraePcvNp6-VpCZdyCHoJ6arp)
 [![AutoCAD](https://img.shields.io/badge/AutoCAD-333333?style=for-the-badge&logo=autodesk&logoColor=white)](https://colab.research.google.com/drive/1cmouBEFvraePcvNp6-VpCZdyCHoJ6arp)
 
